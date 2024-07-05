@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+D:\TaskSehduler Using DSA & Java JSP\.metadata\.plugins\org.eclipse.jdt.core
+3397578647.index
+1865797976.index
+1094887494.index
+683198846.index
